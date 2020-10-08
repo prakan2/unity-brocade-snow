@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_440435_unity_bro_unity_brocade_endpoint" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_440435_unity_bro_unity_brocade_endpoint" element="NULL" name="x_440435_unity_bro_unity_brocade_endpoint" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bf4ca528db1310104c815c7a48961980</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 17:43:51</sys_created_on>
+            <sys_id>774ca528db1310104c815c7a48961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 17:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mid_server_list</element>
+            <list_id display_value="x_440435_unity_bro_unity_brocade_endpoint" element="NULL" name="x_440435_unity_bro_unity_brocade_endpoint" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bf4ca528db1310104c815c7a48961980</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 17:43:51</sys_created_on>
+            <sys_id>7f4ca528db1310104c815c7a48961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 17:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_2</element>
+            <list_id display_value="x_440435_unity_bro_unity_brocade_endpoint" element="NULL" name="x_440435_unity_bro_unity_brocade_endpoint" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bf4ca528db1310104c815c7a48961980</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 17:43:51</sys_created_on>
+            <sys_id>ff4ca528db1310104c815c7a48961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 17:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_3</element>
+            <list_id display_value="x_440435_unity_bro_unity_brocade_endpoint" element="NULL" name="x_440435_unity_bro_unity_brocade_endpoint" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bf4ca528db1310104c815c7a48961980</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 17:43:51</sys_created_on>
+            <sys_id>734ca528db1310104c815c7a48961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 17:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_8</element>
+            <list_id display_value="x_440435_unity_bro_unity_brocade_endpoint" element="NULL" name="x_440435_unity_bro_unity_brocade_endpoint" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bf4ca528db1310104c815c7a48961980</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 17:43:51</sys_created_on>
+            <sys_id>f34ca528db1310104c815c7a48961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 17:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_full_utf8_7</element>
+            <list_id display_value="x_440435_unity_bro_unity_brocade_endpoint" element="NULL" name="x_440435_unity_bro_unity_brocade_endpoint" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bf4ca528db1310104c815c7a48961980</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 17:43:51</sys_created_on>
+            <sys_id>774ca528db1310104c815c7a48961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 17:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>username</element>
+            <list_id display_value="x_440435_unity_bro_unity_brocade_endpoint" element="NULL" name="x_440435_unity_bro_unity_brocade_endpoint" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bf4ca528db1310104c815c7a48961980</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 17:43:51</sys_created_on>
+            <sys_id>f74ca528db1310104c815c7a48961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 17:43:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_440435_unity_bro_unity_brocade_endpoint</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 17:43:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf4ca528db1310104c815c7a48961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_440435_unity_bro_unity_brocade_endpoint</sys_name>
+            <sys_package display_value="unity-brocade-mvp" source="x_440435_unity_bro">b7efaa0cdb1f10104c815c7a48961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="unity-brocade-mvp">b7efaa0cdb1f10104c815c7a48961925</sys_scope>
+            <sys_update_name>sys_ui_list_x_440435_unity_bro_unity_brocade_endpoint_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 17:43:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

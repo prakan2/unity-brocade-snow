@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="DELETE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description/>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-13 18:41:16</sys_created_on>
+        <sys_id>c959bde0db5310104c815c7a48961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Full Lun Decomm</sys_name>
+        <sys_package display_value="unity-brocade-mvp" source="x_440435_unity_bro">b7efaa0cdb1f10104c815c7a48961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unity-brocade-mvp">b7efaa0cdb1f10104c815c7a48961925</sys_scope>
+        <sys_update_name>sc_catalog_c959bde0db5310104c815c7a48961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-13 18:41:16</sys_updated_on>
+        <title>Full Lun Decomm</title>
+    </sc_catalog>
+    <sys_translated_text action="DELETE" query="documentkey=c959bde0db5310104c815c7a48961934"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="unity-brocade-mvp">b7efaa0cdb1f10104c815c7a48961925</application>
+        <file_path/>
+        <instance_id>3d6cf084db19bb409df22f17d4961968</instance_id>
+        <instance_name>dev84793</instance_name>
+        <name>sc_catalog_c959bde0db5310104c815c7a48961934</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog"><sc_catalog action="INSERT_OR_UPDATE"><active>true</active><background_color>white</background_color><description/><desktop_continue_shopping/><desktop_home_page/><desktop_image/><editors/><enable_wish_list>false</enable_wish_list><manager/><sys_class_name>sc_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-13 18:41:16</sys_created_on><sys_id>c959bde0db5310104c815c7a48961934</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Full Lun Decomm</sys_name><sys_package display_value="unity-brocade-mvp" source="x_440435_unity_bro">b7efaa0cdb1f10104c815c7a48961925</sys_package><sys_policy/><sys_scope display_value="unity-brocade-mvp">b7efaa0cdb1f10104c815c7a48961925</sys_scope><sys_update_name>sc_catalog_c959bde0db5310104c815c7a48961934</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-13 18:41:16</sys_updated_on><title>Full Lun Decomm</title></sc_catalog><sys_translated_text action="delete_multiple" query="documentkey=c959bde0db5310104c815c7a48961934"/></record_update>]]></payload>
+        <payload_hash>-1310023177</payload_hash>
+        <record_name>Full Lun Decomm</record_name>
+        <reverted_from/>
+        <source>3fefaa0cdb1f10104c815c7a48961927</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-13 18:41:16</sys_created_on>
+        <sys_id>4579fde0db5310104c815c7a489619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17488c577840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-13 18:41:16</sys_updated_on>
+        <type>Catalog</type>
+        <update_guid>8d79fde02a531010a220dde9be5a77d5</update_guid>
+        <update_guid_history>8d79fde02a531010a220dde9be5a77d5:-1310023177</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Full Lun Decomm">42893124db5310104c815c7a489619e3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-13 18:41:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog">sc_catalog</sys_db_object>
+        <sys_id>6a927d45b12443138e2065345f89d101</sys_id>
+        <sys_metadata>c959bde0db5310104c815c7a48961934</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Full Lun Decomm</sys_name>
+        <sys_package display_value="unity-brocade-mvp" source="x_440435_unity_bro">b7efaa0cdb1f10104c815c7a48961925</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="unity-brocade-mvp">b7efaa0cdb1f10104c815c7a48961925</sys_scope>
+        <sys_scope_delete display_value="">1b24d56978ba449a88ba4ad988cd0ec4</sys_scope_delete>
+        <sys_update_name>sc_catalog_c959bde0db5310104c815c7a48961934</sys_update_name>
+        <sys_update_version display_value="sc_catalog_c959bde0db5310104c815c7a48961934">4579fde0db5310104c815c7a489619d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-13 18:41:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

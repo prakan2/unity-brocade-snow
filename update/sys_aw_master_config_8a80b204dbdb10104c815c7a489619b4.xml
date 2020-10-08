@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="unity-brocade-mvp">ca80b204dbdb10104c815c7a489619b5</compiled_page_registry>
+        <description>End to end automation for Unity provisioning deprovisioning</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="unity-brocade-mvp Search Context Config">0e80b204dbdb10104c815c7a489619b2</global_search_data>
+        <name>unity-brocade-mvp</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-12 09:24:57</sys_created_on>
+        <sys_id>8a80b204dbdb10104c815c7a489619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>unity-brocade-mvp</sys_name>
+        <sys_package display_value="unity-brocade-mvp" source="x_440435_unity_bro">b7efaa0cdb1f10104c815c7a48961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unity-brocade-mvp">b7efaa0cdb1f10104c815c7a48961925</sys_scope>
+        <sys_update_name>sys_aw_master_config_8a80b204dbdb10104c815c7a489619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-12 09:24:57</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>unity_brocade_mvp</workspace_url>
+    </sys_aw_master_config>
+</record_update>

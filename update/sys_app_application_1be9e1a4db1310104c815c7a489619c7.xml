@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Unity_Brocade_Endpoint</name>
+        <order>100</order>
+        <roles>x_440435_unity_bro.unity_brocade_endpoint_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-13 17:33:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1be9e1a4db1310104c815c7a489619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unity_Brocade_Endpoint</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="unity-brocade-mvp" source="x_440435_unity_bro">b7efaa0cdb1f10104c815c7a48961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unity-brocade-mvp">b7efaa0cdb1f10104c815c7a48961925</sys_scope>
+        <sys_update_name>sys_app_application_1be9e1a4db1310104c815c7a489619c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-13 17:33:26</sys_updated_on>
+        <title>Unity_Brocade_Endpoint</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
